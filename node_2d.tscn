@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpny3l6w7yir2"]
+
+[ext_resource type="Texture2D" uid="uid://ccsit5hbcryk5" path="res://pixil-frame-0 (1).png" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Window" type="Window" parent="."]
+position = Vector2i(0, 36)
+size = Vector2i(1000, 1000)
+
+[node name="Pixil-frame-0(1)" type="Sprite2D" parent="Window"]
+position = Vector2(0, 440)
+scale = Vector2(1.12995, 1.09807)
+texture = ExtResource("1_wtcfe")
+
+[node name="Pixil-frame-0(1)" type="Sprite2D" parent="."]
+position = Vector2(0, 505)
+texture = ExtResource("1_wtcfe")
