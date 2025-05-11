@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746948737
+cat-frame-1.png::CompressedTexture2D::5412805332673102798::1746948674::1746948740::1::::<><><>0<>0<>1df821b2f132f6b093b8ff20b5bbfeb9<>res://.godot/imported/cat-frame-1.png-d43f180ee41bb16f71f7072fa9e16241.ctex::
+cat-frame-2.png::CompressedTexture2D::9120580558821226402::1746948700::1746948740::1::::<><><>0<>0<>fc7c438f2f3ea1e99cfd7478d3a3c9da<>res://.godot/imported/cat-frame-2.png-ade7bb675fdafc2c9f9a4d4ce98d6a7a.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::1082241377424622044::1746894757::1746894777::1::::<><><>0<>0<>9e8596b82a1c3b48ec4e9181bef3d7ff<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::5854018769504280893::1746947810::0::1::::<><><>0<>0<><>::uid://ccsit5hbcryk5::::res://pixil-frame-0 (1).png
+pixil-frame-0 (1).png::CompressedTexture2D/CompressedTexture2D::4950899106824607194::1746894757::1746894778::1::::<><><>0<>0<>8e342b9a75e2dcd1f12684c3af37d404<>res://.godot/imported/pixil-frame-0 (1).png-160dd9969d7e45d14d604c370b40e019.ctex::
+player.gd::GDScript::5131960062759779012::1746899560::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::639447091533055428::1746947936::0::1::::<><><>0<>0<><>::uid://ccsit5hbcryk5::::res://pixil-frame-0 (1).png<>uid://cfd7vrdu5n1vk::::res://player.gd
+README.md::TextFile/TextFile::-1::1746894757::0::1::::<><><>0<>0<><>::
