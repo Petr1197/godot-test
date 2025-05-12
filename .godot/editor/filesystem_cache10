@@ -1,10 +1,16 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1746948737
-cat-frame-1.png::CompressedTexture2D::5412805332673102798::1746948674::1746948740::1::::<><><>0<>0<>1df821b2f132f6b093b8ff20b5bbfeb9<>res://.godot/imported/cat-frame-1.png-d43f180ee41bb16f71f7072fa9e16241.ctex::
-cat-frame-2.png::CompressedTexture2D::9120580558821226402::1746948700::1746948740::1::::<><><>0<>0<>fc7c438f2f3ea1e99cfd7478d3a3c9da<>res://.godot/imported/cat-frame-2.png-ade7bb675fdafc2c9f9a4d4ce98d6a7a.ctex::
-icon.svg::CompressedTexture2D/CompressedTexture2D::1082241377424622044::1746894757::1746894777::1::::<><><>0<>0<>9e8596b82a1c3b48ec4e9181bef3d7ff<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::5854018769504280893::1746947810::0::1::::<><><>0<>0<><>::uid://ccsit5hbcryk5::::res://pixil-frame-0 (1).png
-pixil-frame-0 (1).png::CompressedTexture2D/CompressedTexture2D::4950899106824607194::1746894757::1746894778::1::::<><><>0<>0<>8e342b9a75e2dcd1f12684c3af37d404<>res://.godot/imported/pixil-frame-0 (1).png-160dd9969d7e45d14d604c370b40e019.ctex::
-player.gd::GDScript::5131960062759779012::1746899560::0::1::::<>Area2D<><>0<>0<><>::
-player.tscn::PackedScene::639447091533055428::1746947936::0::1::::<><><>0<>0<><>::uid://ccsit5hbcryk5::::res://pixil-frame-0 (1).png<>uid://cfd7vrdu5n1vk::::res://player.gd
+::res://::1747015260
 README.md::TextFile/TextFile::-1::1746894757::0::1::::<><><>0<>0<><>::
+::res://Images/::1746997470
+cat-frame-1.png::CompressedTexture2D/CompressedTexture2D::5412805332673102798::1746948674::1746995295::1::::<><><>0<>0<>8e68324b1ac717235d56deac34b3e134<>res://.godot/imported/cat-frame-1.png-12d77073adbe638f67375eb24b32f45d.ctex::
+cat-frame-2.png::CompressedTexture2D/CompressedTexture2D::9120580558821226402::1746948700::1746995295::1::::<><><>0<>0<>8c6ded224edd31e62e1647228c780737<>res://.godot/imported/cat-frame-2.png-d91fc84f39fb8e3d2c25574877afbbae.ctex::
+enemy-lizard-draft.png::CompressedTexture2D/CompressedTexture2D::2869676921806644028::1746997470::1746997470::1::::<><><>0<>0<>c5e4b804db6a49006f71a9dafc0a0079<>res://.godot/imported/enemy-lizard-draft.png-0320beefc559ac71f97dca43ef389216.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::1082241377424622044::1746894757::1746995295::1::::<><><>0<>0<>eef57e9f7b0ee71d7c053ff7544eabf8<>res://.godot/imported/icon.svg-b7ee14c4fc7622c16acfaa49648fa144.ctex::
+pixil-frame-0 (1).png::CompressedTexture2D/CompressedTexture2D::4950899106824607194::1746894757::1746995295::1::::<><><>0<>0<>790f245eca975f170c3036176a227036<>res://.godot/imported/pixil-frame-0 (1).png-5962cef2b3fe40c54bcf0b5898b7f045.ctex::
+pixil-frame-0(1).png::CompressedTexture2D/CompressedTexture2D::2845780283418072658::1746997470::1746997470::1::::<><><>0<>0<>671d7c3b9bce59c67f780f01214f7c04<>res://.godot/imported/pixil-frame-0(1).png-010c4b5fc7e061d9d5c376378ef5af12.ctex::
+pixil-frame-0.png::CompressedTexture2D/CompressedTexture2D::6692655698346676740::1746997470::1746997470::1::::<><><>0<>0<>b27c413ce6222820fecc6ab8b6c36abf<>res://.godot/imported/pixil-frame-0.png-83e9a223168cd95fa4b49bd4257c9295.ctex::
+::res://Scenes/::1747015175
+Main.tscn::PackedScene::5042608503808662958::1747015175::0::1::::<><><>0<>0<><>::uid://jd0un2haafia::::res://Scenes/player.tscn
+player.tscn::PackedScene::639447091533055428::1747006623::0::1::::<><><>0<>0<><>::uid://deckw6ghfnu4a::::res://Scripts/player.gd<>uid://cjead3vxfgw35::::res://Images/cat-frame-1.png<>uid://d27cvno3sn0yg::::res://Images/cat-frame-2.png
+::res://Scripts/::1746994973
+player.gd::GDScript/GDScript::7444794276351070274::1746949120::0::1::::<>Area2D<><>0<>0<><>::
