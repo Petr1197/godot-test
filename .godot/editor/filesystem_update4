@@ -1,0 +1,7 @@
+res://Scenes/Main.tscn
+res://Scenes/player.tscn
+res://Scenes/Levels/game_level.tscn
+res://Scenes/Characters/player.tscn
+res://Scenes/Characters/player_cat.gd
+res://Scenes/Characters/Player.tscn
+res://Scripts/player_cat.gd

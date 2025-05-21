@@ -1,4 +1,9 @@
-Node
+TileMap
 CollisionShape2D
 AnimatedSprite2D
+CharacterBody2D
+Camera2D
+VisibleOnScreenNotifier2D
+RigidBody2D
+Node
 Area2D
